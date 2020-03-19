@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    background: red;
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    top: 20px;
+    right: 50px;
+}
